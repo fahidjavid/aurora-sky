@@ -17,3 +17,7 @@
 
 <div id="site-wrapper">
 
+	<div class="header" role="banner">
+		<?php get_template_part( 'partials/header/header' ); ?>
+	</div>
+
