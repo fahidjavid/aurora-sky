@@ -21,6 +21,8 @@
 	</div>
 </header>
 
+<?php // todo: start video number three at watch task :) ?>
+
 <div id="content">
 	<div class="page">
 		<div id="primary">
